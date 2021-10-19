@@ -1,0 +1,73 @@
+html {
+    background-color: lightgrey;
+}
+
+h1 {
+    margin: auto;
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: #eee;
+    width: 420px;
+    border: 1px solid #333;
+    padding: 5px 14px;
+    align-items: center;
+}
+
+h4 {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+p {
+    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+img {
+    width: 480px;
+    height: 260px;
+}
+
+.screenbox {
+    text-align: left;
+    list-style: none;
+    width: 420px;
+    background: white;
+    border: 1px solid #333;
+    padding: 5px 14px;
+}
+
+.screenbox li { 
+    font: 12px/14px Courier, fixed;
+}
+
+.sceneheader, .action, .character { 
+    padding-top: 1.5ex; 
+}
+
+.action { 
+    padding-right: 5%; 
+}
+
+.dialogue { 
+    margin-left: 25%; padding-right: 25%; 
+}
+
+
+.character {
+    margin-left: 40%; 
+   
+    }
+
+.leftalign {
+    margin-left: 30%;
+
+}
+
+.rightalign {
+    margin-right: 90%;
+    
+}
